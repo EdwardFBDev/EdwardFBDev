@@ -55,7 +55,7 @@ Mobile UX/UI and functional design project for a marketplace platform, including
 
 I'm currently looking for opportunities as a **Junior Full Stack Developer**, **Junior Mobile Developer**, or **Software Developer**, where I can continue growing while contributing to real-world software projects.
 
-## 📫 Contact
+## Contact
 
 * LinkedIn: [www.linkedin.com/in/eduardo-funes](http://www.linkedin.com/in/eduardo-funes)
 * Email: [edwardfb94@gmail.com](mailto:edwardfb94@gmail.com)
